@@ -1,0 +1,10 @@
+Este proyecto implementa un keylogger básico en Python con fines educativos. **No debe usarse en entornos reales ni con fines maliciosos.**
+Keylogger Educativo
+
+Requisitos
+
+- Python 3.10+
+- Sistema operativo Windows o Linux (requiere permisos de administrador)
+- Librería `keyboard`
+
+pip install -r requirements.txt
